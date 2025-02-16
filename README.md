@@ -66,7 +66,7 @@ PLOT_PRICE_PREDICTOR/
 - **Flask Documentation** - [https://flask.palletsprojects.com/](https://flask.palletsprojects.com/)  
 - **Pandas & NumPy** - [https://pandas.pydata.org/](https://pandas.pydata.org/)  
 - **Matplotlib & Seaborn** for visualizations  
-- **Claude.ai** for enhancing UI design  
+- **Claude.ai** for enhancing UI design & fixing errors (Really Helpful)
 
 ## Contributions  
 
